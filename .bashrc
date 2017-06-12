@@ -9,8 +9,6 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 #vim as default in yaourt
 export VISUAL="vim" 
-#tor command
-alias tor='cd /home/shu/Downloads/tor-browser_en-US/ && ./Browser/start-tor-browser --detach'
 #gtk3 bei libreoffice anmelden
 export SAL_USE_VCLPLUGIN=gtk3
 
